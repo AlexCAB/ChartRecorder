@@ -35,14 +35,14 @@ p
 	font-size:12.0pt;
 	font-family:"Times New Roman","serif";}
 p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
-	{mso-style-link:"Текст выноски Знак";
+	{mso-style-link:"пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ";
 	margin:0mm;
 	margin-bottom:.0001pt;
 	font-size:8.0pt;
 	font-family:"Tahoma","sans-serif";}
 span.a
-	{mso-style-name:"Текст выноски Знак";
-	mso-style-link:"Текст выноски";
+	{mso-style-name:"пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ";
+	mso-style-link:"пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ";
 	font-family:"Tahoma","sans-serif";}
 .MsoChpDefault
 	{font-family:"Calibri","sans-serif";}
@@ -64,14 +64,14 @@ div.WordSection1
 <div class=WordSection1>
 
 <p style='margin:0mm;margin-bottom:.0001pt'><span style='font-size:10.0pt;
-font-family:Consolas'> <span lang=EN-US>  <b>Chart recorder</b> it's a program
+font-family:Consolas'>пїЅ<span lang=EN-US>пїЅ <b>Chart recorder</b> it's a program
 for the parameters visualization of the measuring devices. Base on </span></span><span
 style='font-size:10.0pt;font-family:Consolas'><a
 href="http://jchart2d.sourceforge.net/"><span lang=EN-US>JChart2D</span></a></span><span
 lang=EN-US style='font-size:10.0pt;font-family:Consolas'> and OvenIO libs.</span></p>
 
 <p style='margin:0mm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
-10.0pt;font-family:Consolas'>   You can download <a
+10.0pt;font-family:Consolas'>пїЅпїЅ You can download <a
 href="https://sites.google.com/site/programsandsource/files/ChartRecorder.zip">distributive</a>
 and <a
 href="https://sites.google.com/site/programsandsource/files/ChartRecorderSource.zip">Eclipse
@@ -81,20 +81,20 @@ project</a>(without libs).</span></p>
 10.0pt;font-family:Consolas'>&nbsp;</span></p>
 
 <p style='margin:0mm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
-10.0pt;font-family:Consolas'>   UI visual components:</span></p>
+10.0pt;font-family:Consolas'>пїЅпїЅ UI visual components:</span></p>
 
 <p style='margin-top:0mm;margin-right:0mm;margin-bottom:0mm;margin-left:27.0pt;
-margin-bottom:.0001pt'><img border=0 width=576 height=282 id="Рисунок 2"
+margin-bottom:.0001pt'><img border=0 width=576 height=282 id="пїЅпїЅпїЅпїЅпїЅпїЅпїЅ 2"
 src="images/image001.jpg"></p>
 
 <p style='margin:0mm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
 10.0pt;font-family:Consolas'>&nbsp;</span></p>
 
 <p style='margin:0mm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
-10.0pt;font-family:Consolas'>  Internal architecture:  </span></p>
+10.0pt;font-family:Consolas'>пїЅ Internal architecture:пїЅ </span></p>
 
 <p style='margin-top:0mm;margin-right:0mm;margin-bottom:0mm;margin-left:27.0pt;
-margin-bottom:.0001pt'><img border=0 width=576 height=290 id="Рисунок 1"
+margin-bottom:.0001pt'><img border=0 width=576 height=290 id="пїЅпїЅпїЅпїЅпїЅпїЅпїЅ 1"
 src="images/image002.jpg"></p>
 
 <p class=MsoNormal>&nbsp;</p>
